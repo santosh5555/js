@@ -1,1 +1,4 @@
 # js
+```
+console.log("hi");
+```
